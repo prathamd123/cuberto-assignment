@@ -1,8 +1,57 @@
-# React + Vite
+# Cuberto Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was developed as part of a frontend development intern assignment for Jobsforce. It showcases my skills in frontend development, UI/UX design, and implementation of modern web technologies.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+Check out the deployed project here: [Cuberto Assignment](https://cuberto-assignment.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- Interactive UI with animations
+- Smooth transitions using Framer Motion and AOS (Animation on Scroll)
+- Optimized for performance
+- Clean and maintainable code structure
+- **Note:** The project is currently not responsive
+
+## 🛠️ Technologies Used
+- **HTML5** - Structuring the web content
+- **CSS3** - Styling and layout
+- **JavaScript (ES6+)** - Adding interactivity
+- **React.js** - Building UI components
+- **Framer Motion** - Handling animations
+- **AOS (Animation on Scroll)** - Animating elements on scroll
+- **Vercel** - Deployment platform
+
+## 📂 Project Setup
+To run this project locally, follow these steps:
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/prathamd123/cuberto-assignment.git
+   cd cuberto-assignment
+   ```
+
+2. **Install dependencies**
+   ```sh
+   npm install
+   ```
+
+3. **Start the development server**
+   ```sh
+   npm run dev
+   ```
+
+4. Open `http://localhost:5173/` in your browser to view the project.
+
+## 📷 Screenshots
+_Add screenshots or a GIF of the project here_
+
+## 📩 Contact
+If you have any questions or feedback, feel free to connect with me on LinkedIn or via email.
+prathamdevatwal0@gmail.com
+www.linkedin.com/in/pratham-devatwal-949738213
+
+
+
+---
+⭐ **Developed by Pratham**
+
