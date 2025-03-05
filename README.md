@@ -52,7 +52,9 @@ To run this project locally, follow these steps:
 
 ## 📩 Contact
 If you have any questions or feedback, feel free to connect with me on LinkedIn or via email.
+
 prathamdevatwal0@gmail.com
+
 www.linkedin.com/in/pratham-devatwal-949738213
 
 
