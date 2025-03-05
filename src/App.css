@@ -1,0 +1,22 @@
+/* Default: Hide the mobile message */
+.mobile-message {
+    display: none;
+}
+
+/* Show the message only on small screens */
+@media screen and (max-width: 768px) {
+    .mobile-message {
+        display: block;
+        text-align: center;
+        font-size: 18px;
+        color: white;
+        padding: 20px;
+        background-color: #1c1c1c;
+        font-weight: bold;
+    }
+
+    /* Hide the desktop content */
+    .desktop-content {
+        display: none;
+    }
+}
