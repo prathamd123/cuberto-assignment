@@ -43,7 +43,12 @@ To run this project locally, follow these steps:
 4. Open `http://localhost:5173/` in your browser to view the project.
 
 ## 📷 Screenshots
-_Add screenshots or a GIF of the project here_
+![img1](https://github.com/user-attachments/assets/98beac6e-8999-4ff0-a0e5-7ffd2d70ec26)
+
+![img2](https://github.com/user-attachments/assets/f805872f-7453-49fd-b4b9-586aef995fc4)
+
+![img3](https://github.com/user-attachments/assets/7b01b1ff-4b20-40d7-b83d-eb85dd5974b7)
+
 
 ## 📩 Contact
 If you have any questions or feedback, feel free to connect with me on LinkedIn or via email.
