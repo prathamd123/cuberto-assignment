@@ -1,9 +1,9 @@
-/* Default: Hide the mobile message */
+
 .mobile-message {
     display: none;
 }
 
-/* Show the message only on small screens */
+
 @media screen and (max-width: 768px) {
     .mobile-message {
         display: block;
@@ -15,7 +15,7 @@
         font-weight: bold;
     }
 
-    /* Hide the desktop content */
+    
     .desktop-content {
         display: none;
     }

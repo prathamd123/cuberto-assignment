@@ -25,3 +25,22 @@
   .fadeInUp-animation {
     animation: 1s fadeInUp;
   }
+
+  @media screen and (max-width: 1015px) and (min-width: 768px) {
+   .txt{
+   
+    font-size: 50px;
+   }
+  }
+  @media screen and (max-width: 1140px) and (min-width: 1015px) {
+   .txt{
+   
+    font-size: 60px;
+   }
+  }
+  @media screen and (max-width: 1800px) and (min-width: 1300px) {
+   .txt{
+   
+    font-size: 90px;
+   }
+  }
