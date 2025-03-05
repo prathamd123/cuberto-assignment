@@ -12,22 +12,23 @@ import Video from "./components/Video";
 function App() {
   return (
     <>
-      <div>
-        <div className="mobile-message">
-          This website is only available for desktop.
+    <div>
+            <div className="mobile-message">
+                This website is only available for desktop.
+            </div>
+            <div className="desktop-content">
+            <Navbar />
+      <Hero />
+      <Video />
+      <Middle />
+      <FeatureProjects />
+      <Philosophy />
+      <Resources />
+      <Inspo />
+      <Footer />
+            </div>
         </div>
-        <div className="desktop-content">
-          <Navbar />
-          <Hero />
-          <Video />
-          <Middle />
-          <FeatureProjects />
-          <Philosophy />
-          <Resources />
-          <Inspo />
-          <Footer />
-        </div>
-      </div>
+     
     </>
   );
 }
