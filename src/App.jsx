@@ -14,7 +14,7 @@ function App() {
     <>
     <div>
             <div className="mobile-message">
-                This website is only available for desktop.
+                Working on the responsiveness
             </div>
             <div className="desktop-content">
             <Navbar />
